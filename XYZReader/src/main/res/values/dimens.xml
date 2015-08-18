@@ -24,4 +24,9 @@
     <dimen name="app_bar_margin_start">38dp</dimen>
     <dimen name="app_bar_margin_end">44dp</dimen>
     <dimen name="fab_button_elevation">8dp</dimen>
+    <dimen name="paddingSpace">16dp</dimen>
+    <dimen name="paddingBottom">4dp</dimen>
+
+
+
 </resources>
